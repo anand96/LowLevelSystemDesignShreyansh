@@ -1,0 +1,14 @@
+package main.java.com.conceptcoding.structuralpatterns.composite.filesystem.problem;
+
+public class File {
+    String fileName;
+
+    public File(String name) {
+        this.fileName = name;
+    }
+
+    public void printContents() {
+        System.out.println("File name: " + fileName);
+    }
+}
+

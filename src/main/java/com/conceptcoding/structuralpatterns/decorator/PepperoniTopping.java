@@ -1,4 +1,4 @@
-package main.java.com.conceptcoding.structuralpatterns.composite;
+package main.java.com.conceptcoding.structuralpatterns.decorator;
 
 // Step 4: Define the Concrete Decorators
 public class PepperoniTopping extends ToppingDecorator {

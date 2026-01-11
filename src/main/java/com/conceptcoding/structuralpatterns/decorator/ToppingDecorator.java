@@ -1,4 +1,4 @@
-package main.java.com.conceptcoding.structuralpatterns.composite;
+package main.java.com.conceptcoding.structuralpatterns.decorator;
 
 // Step 3: Define the Abstract Base Decorator
 public abstract class ToppingDecorator implements BasePizza {
