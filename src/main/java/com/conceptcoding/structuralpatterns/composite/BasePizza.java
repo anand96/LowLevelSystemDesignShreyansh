@@ -1,0 +1,9 @@
+package main.java.com.conceptcoding.structuralpatterns.composite;
+
+// Step 1: Define the Component Interface
+public interface BasePizza {
+    String getDescription();
+
+    double getCost();
+}
+
