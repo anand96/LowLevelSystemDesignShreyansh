@@ -1,0 +1,9 @@
+package main.java.com.conceptcoding.creationalpatterns.abstractfactoray;
+
+// Step 2: Concrete Products for Economy Car Family
+public class EconomyCarExterior implements CarExterior{
+    @Override
+    public void addExteriorComponents() {
+        System.out.println("Adding basic exterior components for Economy Car.");
+    }
+}
